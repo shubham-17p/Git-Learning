@@ -9,3 +9,8 @@ console.log(age)
 
 const money = 6000000;
 console.log(money)
+const balance = 3000;
+console.log(balance)
+
+const account = 289756;
+console.log(account)
