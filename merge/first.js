@@ -6,3 +6,6 @@ console.log(roll)
 
 const age = 30;
 console.log(age)
+
+const balance = 3000;
+console.log(balance)
