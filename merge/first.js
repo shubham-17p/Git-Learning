@@ -17,3 +17,6 @@ console.log(account)
 
 const change = "latest changes"
 console.log(change)
+
+//i am fixing some bug
+console.log("bug fixing")
